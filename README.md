@@ -3,9 +3,11 @@ Proxy Server
 This is a basic proxy server I am programming to learn about networking.
 
 Usage:
+
 "./proxy <port_number>"
 
 In web browser:
+
 "localhost:<port_number>/URL"
 
 The stages of sending a request from the proxy are visible in the terminal. For example:
