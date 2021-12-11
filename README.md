@@ -10,7 +10,7 @@ In web browser:
 
 "localhost:<port_number>/URL"
 
-The stages of sending a request from the proxy are visible in the terminal. For example:
+The stages of sending a request through the proxy are visible in the terminal. For example:
 
 1. Request to the proxy:
 
