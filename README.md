@@ -5,6 +5,20 @@ This is a basic proxy server I am programming to learn about networking.
 Usage:
 "./proxy <port_number>"
 
-![image](https://user-images.githubusercontent.com/95983460/145691500-344cc3d6-d733-4a80-97ec-01eccf75e33c.png)
+In web browser:
+"localhost:<port_number>/URL"
 
-![image](https://user-images.githubusercontent.com/95983460/145691531-7d84ee9e-679c-4e66-8922-9d44c1122a2a.png)
+The stages of sending a request from the proxy are visible in the terminal. For example:
+
+1. Request to the proxy:
+
+![image](https://user-images.githubusercontent.com/95983460/145691667-b4454782-1a50-42f9-aae1-d686db8e9597.png)
+
+2. Request that is sent from the proxy server to the remote host (in this case, docs.microsoft.com):
+
+![image](https://user-images.githubusercontent.com/95983460/145691697-7ca40524-16d6-4bc8-aaad-30af73d5eb48.png)
+
+3. Finally, the response from the remote host:
+
+![image](https://user-images.githubusercontent.com/95983460/145691798-959ccdda-8848-45e7-b15b-2661f82da379.png)
+
