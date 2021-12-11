@@ -14,13 +14,16 @@ The stages of sending a request from the proxy are visible in the terminal. For 
 
 1. Request to the proxy:
 
-![image](https://user-images.githubusercontent.com/95983460/145691667-b4454782-1a50-42f9-aae1-d686db8e9597.png)
+![image](https://user-images.githubusercontent.com/95983460/145693006-1ff81b02-a426-41ca-a4f2-93d3acc43db3.png)
 
-2. Request that is sent from the proxy server to the remote host (in this case, docs.microsoft.com):
+2. Request that is sent from the proxy server to the remote host (in this case, www.youtube.com):
 
-![image](https://user-images.githubusercontent.com/95983460/145691697-7ca40524-16d6-4bc8-aaad-30af73d5eb48.png)
+![image](https://user-images.githubusercontent.com/95983460/145693021-0796f3b4-166a-4da3-8475-2b3a505150df.png)
 
 3. Finally, the response from the remote host:
 
-![image](https://user-images.githubusercontent.com/95983460/145691798-959ccdda-8848-45e7-b15b-2661f82da379.png)
+![image](https://user-images.githubusercontent.com/95983460/145693026-70826e19-d73f-4803-bd71-cbb54d79d12f.png)
+
+
+
 
